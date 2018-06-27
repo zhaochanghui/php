@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html>
+
+
+
+
+
+<head>
+<meta name="description" content="7x24小时金融市场" />
+<meta name="keywords" content="7x24小时金融市场" />
+<meta name="robots" content="all" />
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>7x24小时金融市场直播-准确把握投资机会</title>
+	<link rel="stylesheet" href="http://img.hexun.com/zt/7X24/style.css">
+	<link rel="stylesheet" href="http://img.hexun.com/stock/7X24/css/toolbar.css">
+	<script src="http://img.hexun.com/zl/tool/jquery-1.4.2.min.js"></script>
+	<script src="http://img.hexun.com/zt/7X24/index.js"></script>
+    <!--script src="http://img.hexun.com/zt/7X24/liveNews.js"></script-->
+<script src="http://img.hexun.com/2016/7X24/js/liveNews.js"></script>
+	<script type="text/javascript" src="http://img.hexun.com/tool/js/tab.js"></script>
+
+
+<script src="http://utrack.hexun.com/dp/hexun_dplus_ver1.0.1.js"></script>
+<script>
+var dplus_pageview = { "CHANNEL": "股票", "LEVEL": "股票首页>股票频道专题库>全球金融市场7*24小时", "TYPE": "列表页", "TITLE": "", "ARTICLEID": "0", "MEDIA": "", "AUTHER": "", "TIME": "", "DATAILTYPE": "", "KEYWORD": "", "COEFFICIENT": "3", "PLATFORM": "WEB" };
+</script>
+
+</head>
+<body>
+
+<script src="http://i5.hexunimg.cn/zl/hx/articlePage/js/articleTop.js"></script>
+<script src="http://login.tool.hexun.com/OtherInterFace/js/popup_v2.js" type="text/javascript" charset="gb2312"></script>
+<center><div id="fullScreeMedia"></div><div id="topFullWidthBanner"></div></center>
+<div class="toolbar" id="t-float">
+	<div class="toolbarC clearfix">
+		<div class="toolbarCL clearfix">
+			<div class="navL clearfix">
+					<a href="http://www.hexun.com/" class="l1">和讯首页</a>
+				<a href="http://news.hexun.com/" class="l1">新闻</a>
+				<a href="http://stock.hexun.com/" class="l1">股票</a>
+				<a href="http://funds.hexun.com/" class="l1">基金</a>
+				<a href="http://futures.hexun.com/" class="l1">期货</a>
+				<a href="http://forex.hexun.com/" class="l1">外汇</a>
+				<a href="http://bond.hexun.com/" class="l1 end">债券</a>				<div class="more">
+					<div class="bn">更多</div>
+					<div class="mLink">
+						<ul class="clearfix">
+							<li><a href="http://bank.hexun.com/">银行</a></li>
+							<li><a href="http://insurance.hexun.com/">保险</a></li>
+							<li><a href="http://gold.hexun.com/">黄金</a></li>
+							<li><a href="http://trust.hexun.com/">信托</a></li>
+							<li ><a href="http://money.hexun.com/">理财</a></li>
+							<li><a href="http://iof.hexun.com/">互金</a></li>
+							<li class="pr"><a href="http://zhongchou.hexun.com/" >众筹</a><em></em></li>
+							<li><a href="http://p2p.hexun.com/">P2P</a></li>
+							<li><a href="http://quote.hexun.com/">行情</a></li>
+							<li><a href="http://data.hexun.com/">数　据</a></li>
+							<li><a href="http://hk.stock.hexun.com/">港股</a></li>
+							<li><a href="http://stock.hexun.com/usstock/">美股</a></li>
+							<li><a href="http://stock.hexun.com/newstock/">新股</a></li>
+							<li><a href="http://funds.hexun.com/smjj/">私募</a></li>
+							<li><a href="http://pe.hexun.com/">创投</a></li>
+							<li><a href="http://xianhuo.hexun.com/">现货</a></li>
+							<li><a href="http://qizhi.hexun.com/">期指</a></li>
+							<li><a href="http://bbs.hexun.com/">论坛</a></li>
+							<li><a href="http://guba.hexun.com/default.htm">股吧</a></li>
+							<li><a href="http://stock.hexun.com/sanban/">新三板</a></li>
+							<li><a href="http://news.hexun.com/events/">时事</a></li>
+							<li><a href="http://tv.hexun.com/">视频</a></li>
+							<li><a href="http://opinion.hexun.com/">评论</a></li>
+							<li><a href="http://news.hexun.com/socialmedia/">名家</a></li>
+							<li><a href="http://book.hexun.com/">读书</a></li>
+							<li><a href="http://blog.hexun.com/">博客</a></li>
+							<li><a href="http://house.hexun.com/">房产</a></li>
+							<li><a href="http://auto.hexun.com/">汽车</a></li>
+							<li><a href="http://tech.hexun.com/">科技</a></li>
+							<li class="pr"><a href="http://bschool.hexun.com/">商学院</a></li></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="toolbarCR">
+			<!--未登录--> 
+			<div class="hr-login-box" id="longinBox">
+				<div class="hr-login-l fl">
+					<div class="txt"><strong class="fl">登录</strong><a href="https://reg.hexun.com/regname.aspx?gourl=http%3a%2f%2fwww.hexun.com%2f&fromhost=HX_WEB&urlReferrerhost=http%3a%2f%2fwww.hexun.com%2f" class="fr red">快速注册</a><span class="fr">没有账号？</span></div>
+					<input type="text" onblur="articleTop.focusBtn(this,2)" onfocus="articleTop.focusBtn(this,1)" value="用户名/手机/邮箱" id="name" autocomplete="off" />
+					<input type="password" onblur="articleTop.focusBtn(this,2)" onfocus="articleTop.focusBtn(this,1)" value="******" id="pwd" autocomplete="off" />
+					<input type="button" value="" onclick="articleTop.loginGo()" class="btn" />
+					<label class="j"><input type="checkbox" checked="checked" id="check" />记住我</label>
+					<a target="_blank" href="http://reg.hexun.com/GetPasswordPre.aspx" class="reg">找回密码</a>
+					<p class="hr-login-error" id="loginError"><span class="ico">&nbsp;</span><u>登录超时，稍后再试</u></p>
+				</div>
+				<div class="hr-login-r fr">
+<div class="vline"></div>
+<p>免注册 快速登录</p>
+<a href="https://reg.hexun.com/bindqq.aspx?gourl=aHR0cDovL3d3dy5oZXh1bi5jb20=&fromhost=www.hexun.com" class="qq"></a><a href="https://reg.hexun.com/bindsina.aspx?gourl=aHR0cDovL3d3dy5oZXh1bi5jb20=&fromhost=www.hexun.com" class="wb"></a><a href="https://reg.hexun.com/bindweixin.aspx?gourl=aHR0cDovL3d3dy5oZXh1bi5jb20=&fromhost=www.hexun.com" class="wx"></a>
+<div class="close" onclick="articleTop.hideBox('longinBox')"></div></div>
+			</div>
+			<!--未登录 e--> 
+
+			<a class="bn bnApp" style="background:url('http://img.hexun.com/zl/hx/index/images/dong.gif') no-repeat;width:82px;height:60px;" href="http://news.hexun.com/2015/znxz/?utm_campaign=web_all_top"></a>
+			<a href="javascript:void(0)" target="_self" onclick="popupReg()" class="bn">注册</a>
+			<a href="javascript:void(0);" target="_self" class="loginBn" onclick="popupLogin()"></a>
+
+			<!--已登录--> 
+			<div class="YesLogin claerfix">
+				<div class="username"></div>
+				<div class="round"></div>
+				<div class="menu">
+					<ul>
+						<li class="s">
+							<a href="http://i.hexun.com/" class="t">个人门户</a>
+							<em class="tip"></em>
+							<div class="list">
+								<p class="clearfix"><strong class="fl"><a href="http://message.hexun.com/">消息</a></strong><span id="userMessageCount" class="fr"></span></p>
+								<p class="clearfix"><strong class="fl"><a href="http://message.hexun.com/notice">通知</a></strong><span id="userNotifyCount" class="fr"></span></p>
+								<p class="clearfix h"><strong class="fl"><a href="#">公告</a></strong><span class="fr">0</span></p>
+							</div>
+						</li>
+						<li>
+							<a href="http://epay.hexun.com/">钱包</a>
+						</li>
+						<li class="end"><a href="http://hexun.com/newHome/set/userinfo">设置</a></li>
+					</ul>
+				</div>
+			</div>
+			<!--已登录 e--> 
+		</div>
+	</div>
+	<script>articleTop.scrollTop();articleTop.isLogin();</script>
+</div>
+
+	<div class="TopBg  clearfix">
+		<div class="inner clearfix">
+			<div class="logo">
+				<img src="http://i0.hexun.com/2017-06-23/189761581.jpg" alt=""></div>
+<div id="AdRightBtn1" class="rAd"></div>
+		</div>
+	</div>
+	<div class="mainBox inner clearfix">
+<div class="l ">
+			<div class="liveNews">
+<div class="ReadyLoad"></div>
+</div>
+
+			<div class="checkmore hide">+点击查看更多</div>
+<script>
+				var ln = new live.news(".liveNews", {
+						size: 20
+					}),
+					watch = new live.watch({
+						queuetime: 1000,
+						fetchtime: 30000
+					});
+
+				ln.getNews(ln.api.getNews, {}, function() {
+					$(".checkmore ").removeClass("hide");
+					setTimeout(function(){
+						window.scrollTo(1,1);
+					}, 100);
+					//ln.storage.get("userScrollY") && window.scrollTo(1, parseInt(ln.storage.get("userScrollY")));
+					//console.log(parseInt(ln.storage.get("userScrollY")));
+					//console.log("init success");
+					watch.queue(ln).fetch(function() {
+						ln.getNews(ln.api.getMoreNews, {
+							timestamp: ln.firstTimeSamp
+						}, function(result) {
+							if (result.list.length > 0 && parseInt(ln.firstTimeSamp) !== parseInt(result.list[result.list.length - 1].timestamp)) {
+								ln.firstTimeSamp = result.list[result.list.length - 1].timestamp;
+								for (var i = 0; i < result.list.length; i++) watch.list.push(result.list[i]);
+							}
+							//console.log(ln.firstTimeSamp)
+						}, function(error) {
+							//console.log(error);
+						}, 2);
+					});
+				}, function() {
+					//console.log("init error:" + error);
+				}, 0).getMoreNews(".checkmore").netStatus();
+			</script>
+			<a href="" class="gotop" id="gotop" javascript:void(0)=""></a>
+			<script type="text/javascript" src="http://img.hexun.com/zt/7X24/gotop.js"></script>
+		</div>
+<div class="r">
+			<table class="indexTable" id="SZ"></table>
+			<div class="rH2 clearfix">行情选股</div>
+			<div class="tab1 clearfix"  id="tab1">
+				<ul class="tabTitle">
+					<li class="top">指标</li>
+					<li class="tab01 active" tab-type="title" id="tab01">领涨个股</li>
+					<li class="tab02" tab-type="title">5分钟涨速榜</li>
+					<li class="tab03" tab-type="title" id="tab03">日涨幅偏离值达7%</li>
+					<li class="tab04" tab-type="title" id="tab04">日振幅值达15%</li>
+					<li class="tab05" tab-type="title" id="tab05">日换手率达20%</li>
+					<li class="tab06" tab-type="title" id="tab06">3日涨幅偏离值累计20%</li>
+					<li class="tab07" tab-type="title" id="tab07">连续7天上涨</li>
+					<li class="tab08" tab-type="title" id="tab08">创一周新高</li>
+					<li class="tab09" tab-type="title" id="tab09">持续放量</li>
+				</ul>
+				<table class="tabCon show"  tab-type="content" id="con01">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">涨跌幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon hide" id="con02">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">涨速</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon hide" id="con03">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">涨跌幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon hide" id="con04">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">振幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon hide" id="con05">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">换手率</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon hide" id="con06">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">涨跌幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon hide" id="con07">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">涨跌幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon hide" id="con08">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">涨跌幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon hide" id="con09">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="45">最新价</th>
+						<th width="45" align="right">涨跌幅</th>
+					</tr>
+				</table>
+
+			</div>
+			<script type="text/javascript">
+				new hexun.tool.Tab({
+					containerID:"tab1"
+				});
+			</script>
+			<div class="rH2 clearfix">A股掘金</div>
+			
+			<div class="tab1 clearfix"  id="tab2">
+				<ul class="tabTitle tabTitle2">
+					<li class="top">指标</li>
+					<li class="tab01 active" tab-type="title" id="tab11">资金净流入</li>
+					<li class="tab02" tab-type="title" id="tab12">大宗交易</li>
+					<li class="tab03" tab-type="title" id="tab13">主力强烈控盘</li>
+					<li class="tab04" tab-type="title" id="tab14">机构关注最多</li>
+					<li class="tab05" tab-type="title" id="tab15">机构持续增持</li>
+					<li class="tab06" tab-type="title" id="tab16">10日龙虎榜金股</li>
+					<li class="tab07" tab-type="title" id="tab17">送股派息</li>
+					<li class="tab08" tab-type="title" id="tab18">早晨之星</li>
+					<li class="tab09" tab-type="title" id="tab19">突破长期盘整</li>
+				</ul>
+
+				<table tab-type="content" class="tabCon tabCon2 show" id="con11">
+					<tr>
+						<th width="50">股票名称</th>
+						<th width="50">最新价</th>
+						<th width="80" align="right">流入（万）</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon tabCon2 hide" id="con12">
+					<tr>
+						<th width="50">股票名称</th>
+						<th width="50">最新价</th>
+						<th width="80" align="right">成交（万）</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon tabCon2 hide" id="con13">
+					<tr>
+						<th width="50">股票名称</th>
+						<th width="50">最新价</th>
+						<th width="80" align="right">主力成本</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon tabCon2 hide" id="con14">
+					<tr>
+						<th width="50">股票名称</th>
+						<th width="50">收盘均价</th>
+						<th width="80" align="right">实际涨幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon tabCon2 hide" id="con15">
+					<tr>
+						<th width="60">股票名称</th>
+						<th width="120" align="right">持股变动（万股）</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon tabCon2 hide" id="con16">
+					<tr>
+						<th width="50">股票名称</th>
+						<th width="50">最新价</th>
+						<th width="80" align="right">涨跌幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon tabCon2 hide" id="con17">
+					<tr>
+						<th width="50">股票名称</th>
+						<th width="50">最新价</th>
+						<th width="80" align="right">股息率</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon tabCon2 hide" id="con18">
+					<tr>
+						<th width="50">股票名称</th>
+						<th width="50">最新价</th>
+						<th width="80" align="right">涨跌幅</th>
+					</tr>
+				</table>
+				<table tab-type="content" class="tabCon tabCon2 hide" id="con19">
+					<tr>
+						<th width="50">股票名称</th>
+						<th width="50">最新价</th>
+						<th width="80" align="right">涨跌幅</th>
+					</tr>
+				</table>
+			</div>
+			<script type="text/javascript">
+				new hexun.tool.Tab({
+					containerID:"tab2"
+				});
+			</script>
+		
+
+<div id="pageTail"></div>
+<script src="http://hxjs.tool.hexun.com/stock/24h/pageMediaControl_2017.js"></script>
+		</div>
+	</div>
+
+<!--footer-->
+<div class="footer">
+	<div class="link">
+		<div class="con">
+			<a href="http://kf.hexun.com/feedback/" id="hexunUserSuggest">和讯恭候您的意见</a> - 
+			<a href="http://corp.hexun.com/contact/index.html">联系我们</a> - 
+			<a href="http://corp.hexun.com/default/index.html">关于我们</a> - 
+			<a href="http://corp.hexun.com/adcenter/index.html">广告服务</a>
+		</div>
+	</div>
+	<div class="txt" id="channelCopy">违法和不良信息举报电话：010-85650899 传真：010-85650844 邮箱：yhts@staff.hexun.com <br />本站郑重声明：和讯信息科技有限公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，投资有风险，选择需谨慎。</div>
+</div>
+
+<script src="http://img.hexun.com/js/inc_2015_new.js?date=201406191425"></script>
+<script src="http://utrack.hexun.com/track/track_hx.js"></script>
+<script src="http://news.hexun.com/js/count.js?date=200911261100"></script>
+<script type="text/javascript"> 
+(function(){
+	//全站通发广告
+	var reg=/\/\d{9}(_\d+)?.(html|html\?\w*)$/;		
+	if(reg.test(location.href) && location.href.indexOf('crudeoil')<0){
+	   document.write('<script type="text/javascript" src="http://itv.hexun.com/lbi-html/ly/2011/allPages/hx_page_tempAd.js"><\/script>');
+	}
+})()
+</script>
+
+<script type="text/javascript">var uweb_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cscript src='" + uweb_protocol + "utrack.hexun.com/dp/hexun_uweb.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script language="javascript" src="http://img.hexun.com/zl/hx/index/js/appDplus.js"></script>
+
+<!--频道尾部公共碎片2014开始-->
+<div  style="display:none" >
+
+<script type="text/javascript">
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? "https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb1b8b99a89c43761f616e8565c9107f' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+</div>
+<!--频道尾部公共碎片2014结束-->
+
+
+</body>
+</html>
